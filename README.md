@@ -1,1 +1,1 @@
-# Painel de Giro de Produto - Handara
+# Painel de Giro de Produtos - Handara
